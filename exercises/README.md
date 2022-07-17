@@ -3,7 +3,7 @@
 <!-- END TITLE -->
 
 <!-- BEGIN TOC -->
-> 7/12/2020, 11:38:21 AM
+> 7/17/2022, 6:24:12 PM
 
 - [0-hello-world](#0-hello-world)
 - [1-remove-from-array](#1-remove-from-array)
@@ -44,8 +44,16 @@ console.log(greeting); // 'Hello, World!'
 ```
 **Test Report**
 ```
-7/12/2020, 11:38:20 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at Object.<anonymous> (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:91:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F.
 
@@ -57,7 +65,7 @@ Failures:
 .    Expected '' to equal 'Hello, toys!'..
 
 2 specs, 2 failures
-Finished in 0.009 seconds
+Finished in 0.007 seconds
 
 ```
 
@@ -74,8 +82,16 @@ Finished in 0.009 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F..F.
 
@@ -119,8 +135,16 @@ Finished in 0.007 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F..F.
 
@@ -147,7 +171,7 @@ Failures:
 .    Expected undefined to equal ''..
 
 7 specs, 7 failures
-Finished in 0.008 seconds
+Finished in 0.007 seconds
 
 ```
 
@@ -164,8 +188,16 @@ Finished in 0.008 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F.
 
@@ -183,7 +215,7 @@ Failures:
 .    Expected undefined to equal ''..
 
 4 specs, 4 failures
-Finished in 0.003 seconds
+Finished in 0.004 seconds
 
 ```
 
@@ -200,8 +232,16 @@ Finished in 0.003 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F.
 
@@ -242,8 +282,16 @@ Finished in 0.006 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F..F..F..F.
 
@@ -293,8 +341,16 @@ Finished in 0.008 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F.
 
@@ -320,8 +376,16 @@ Finished in 0.001 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F.
 
@@ -345,7 +409,7 @@ Failures:
 .    Expected undefined to equal false..
 
 6 specs, 6 failures
-Finished in 0.005 seconds
+Finished in 0.006 seconds
 
 ```
 
@@ -362,8 +426,16 @@ Finished in 0.005 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F.
 
@@ -384,7 +456,7 @@ Failures:
 .    Expected undefined to equal false..
 
 5 specs, 5 failures
-Finished in 0.004 seconds
+Finished in 0.005 seconds
 
 ```
 
@@ -401,8 +473,16 @@ Finished in 0.004 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F..F.
 
@@ -429,7 +509,7 @@ Failures:
 .    Expected undefined to equal 'Ebiil, Tloia!'..
 
 7 specs, 7 failures
-Finished in 0.006 seconds
+Finished in 0.005 seconds
 
 ```
 
@@ -446,8 +526,16 @@ Finished in 0.006 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F.
 
@@ -462,7 +550,7 @@ Failures:
 .    TypeError: Cannot read property 'name' of undefined.
 
 3 specs, 3 failures
-Finished in 0.004 seconds
+Finished in 0.002 seconds
 
 ```
 
@@ -479,8 +567,16 @@ Finished in 0.004 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F..F..F..F.
 
@@ -530,8 +626,16 @@ Finished in 0.008 seconds
 
 **Test Report**
 ```
-7/12/2020, 11:38:21 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at /home/runner/work/document-and-pass/document-and-pass/scripts/test.js:84:5
+    at module.exports.jasmineDone (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/reporters/completion_reporter.js:21:5)
+    at <Jasmine>
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F..F..F..F..F.
 

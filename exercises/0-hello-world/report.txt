@@ -1,5 +1,13 @@
-7/12/2020, 11:38:20 AM
+7/17/2022, 6:24:12 PM
 
+DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
+    at <Jasmine>
+    at Jasmine.onComplete (/home/runner/work/document-and-pass/document-and-pass/node_modules/jasmine/lib/jasmine.js:474:12)
+    at testExercise (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:69:11)
+    at Object.<anonymous> (/home/runner/work/document-and-pass/document-and-pass/scripts/test.js:91:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+Note: This message will be shown only once. Set the verboseDeprecations config property to true to see every occurrence.
 Started
 .F..F.
 
@@ -11,4 +19,4 @@ Failures:
 .    Expected '' to equal 'Hello, toys!'..
 
 2 specs, 2 failures
-Finished in 0.009 seconds
+Finished in 0.007 seconds
