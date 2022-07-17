@@ -1,4 +1,4 @@
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -34,4 +34,4 @@ Failures:
 .    Expected undefined to equal [ 1, 2 ]..
 
 7 specs, 7 failures
-Finished in 0.007 seconds
+Finished in 0.009 seconds

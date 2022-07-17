@@ -3,7 +3,7 @@
 <!-- END TITLE -->
 
 <!-- BEGIN TOC -->
-> 7/17/2022, 6:24:12 PM
+> 7/17/2022, 6:24:55 PM
 
 - [0-hello-world](#0-hello-world)
 - [1-remove-from-array](#1-remove-from-array)
@@ -44,7 +44,7 @@ console.log(greeting); // 'Hello, World!'
 ```
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:54 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -82,7 +82,7 @@ Finished in 0.007 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -118,7 +118,7 @@ Failures:
 .    Expected undefined to equal [ 1, 2 ]..
 
 7 specs, 7 failures
-Finished in 0.007 seconds
+Finished in 0.009 seconds
 
 ```
 
@@ -135,7 +135,7 @@ Finished in 0.007 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -171,7 +171,7 @@ Failures:
 .    Expected undefined to equal ''..
 
 7 specs, 7 failures
-Finished in 0.007 seconds
+Finished in 0.008 seconds
 
 ```
 
@@ -188,7 +188,7 @@ Finished in 0.007 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -232,7 +232,7 @@ Finished in 0.004 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -282,7 +282,7 @@ Finished in 0.006 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -341,7 +341,7 @@ Finished in 0.008 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -376,7 +376,7 @@ Finished in 0.001 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -409,7 +409,7 @@ Failures:
 .    Expected undefined to equal false..
 
 6 specs, 6 failures
-Finished in 0.006 seconds
+Finished in 0.01 seconds
 
 ```
 
@@ -426,7 +426,7 @@ Finished in 0.006 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -473,7 +473,7 @@ Finished in 0.005 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -509,7 +509,7 @@ Failures:
 .    Expected undefined to equal 'Ebiil, Tloia!'..
 
 7 specs, 7 failures
-Finished in 0.005 seconds
+Finished in 0.006 seconds
 
 ```
 
@@ -526,7 +526,7 @@ Finished in 0.005 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -550,7 +550,7 @@ Failures:
 .    TypeError: Cannot read property 'name' of undefined.
 
 3 specs, 3 failures
-Finished in 0.002 seconds
+Finished in 0.003 seconds
 
 ```
 
@@ -567,7 +567,7 @@ Finished in 0.002 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -626,7 +626,7 @@ Finished in 0.008 seconds
 
 **Test Report**
 ```
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>

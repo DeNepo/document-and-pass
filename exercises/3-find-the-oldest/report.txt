@@ -1,4 +1,4 @@
-7/17/2022, 6:24:12 PM
+7/17/2022, 6:24:55 PM
 
 DEPRECATION: Jasmine#onComplete is deprecated. Instead of calling onComplete, set the Jasmine instance's exitOnCompletion property to false and use the promise returned from the execute method.
     at <Jasmine>
@@ -22,4 +22,4 @@ Failures:
 .    TypeError: Cannot read property 'name' of undefined.
 
 3 specs, 3 failures
-Finished in 0.002 seconds
+Finished in 0.003 seconds
